@@ -4,9 +4,9 @@
 
 **Last Updated:** October 29, 2026
 
-**Developer/Publisher:** [Developer or Company Name]
+**Developer/Publisher:** Crownlight Games 
 
-**Contact Email:** [Support Email Address]
+**Contact Email:** Mohamedisdev@gmail.com
 
 ## 1. Introduction
 

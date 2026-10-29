@@ -6,7 +6,7 @@
 
 **Developer/Publisher:** Crownlight Games 
 
-**Contact Email:** Mohamedisdev@gmail.com
+**Contact Email:** infocrownlight@gmail.com
 
 ## 1. Introduction
 
